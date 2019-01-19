@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: shell
+# key: shell
+# --
+
+#+BEGIN_SRC shell
+$1
+#+END_SRC
+
+$2
