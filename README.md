@@ -14,3 +14,7 @@ or
 ```
 git clone git@github.com:eiuapp/snippets-private-win10-tl.git ~/emacs/snippets-private/
 ```
+
+## ref
+
+- [emacs-rocks](https://github.com/magnars/.emacs.d/blob/master/snippets/)
