@@ -1,3 +1,12 @@
+# Sorry: This project is not under active development any more.
+
+# see https://github.com/eiuapp/yasnippet-snippets
+
+
+
+
+
+
 # Private directory for Yasnippets snippets
 
 The content of this directory is ignored by Git. This is the default place
